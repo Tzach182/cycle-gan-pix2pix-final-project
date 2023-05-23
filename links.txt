@@ -1,0 +1,6 @@
+git link
+https://github.com/Tzach182/cycle-gan-pix2pix-final-project
+
+main library:
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+https://github.com/sw-song/PyTorch-GAN
