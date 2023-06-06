@@ -9,6 +9,7 @@ The right image is real and the left image is computer generated.
 This project utilizes a Cycle-GAN (Generative Adversarial Network) to transform images from a state of without sunglasses to a state of with sunglasses.
 The Cycle-GAN framework consists of two generator networks and two discriminator networks, which work in tandem to learn the mapping between the two domains.
 The Cycle-GAN is capable of generating realistic and high-quality images with sunglasses based on the input images without sunglasses.
+This project was made during my university class: Computer Vision Using Deep Learning.
 
 ### Tools used
 
