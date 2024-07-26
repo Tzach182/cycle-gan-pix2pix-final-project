@@ -2,7 +2,7 @@
 
 ![alt text](output_gif.gif "Logo Title Text 1")
 
-The right image is real and the left image is computer generated.
+The left image is real and the rifht image is computer generated.
 
 ## Overview
 
